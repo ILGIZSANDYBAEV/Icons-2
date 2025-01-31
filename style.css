@@ -1,0 +1,139 @@
+body{
+    background-color: lightgray;
+
+}
+.ILGIZ{
+    color: green;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+}
+.ILGIZ:hover{
+    transform: scale(1.1);
+    transition: 2s;
+    background-color: black;
+    color: white;
+  
+}
+.container{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    width: 300px;
+    height: 50px;
+    border: 3px solid;
+    border-radius: 19px;
+  
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:800px 20px 0px 525px;
+  
+
+}
+.instagram{
+    font-size: 50px;
+}
+.instagram:hover{
+    transform: scale(1.1);
+    color: black;
+    transition: 2s;
+}
+.google{
+    font-size: 50px;
+    
+}
+.google:hover{
+    transform: scale(1.1);
+    color: black;
+    transition: 2s;
+    
+}
+.twitch{
+    font-size: 50px;
+}
+.twitch:hover{
+    transform: scale(1.1);
+    color: black;
+    transition: 2s;
+}
+.twitter{
+    font-size: 50px;
+}
+.twitter:hover{
+    transform: scale(1.1);
+    color: black;
+    transition: 2s;
+}
+.cars{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.yapon {
+    width: 200px;
+    height: 200px;
+    border: 10px double ;
+    display: flex;
+    justify-content: center;
+}
+.bmw{
+    width: 200px;
+    height: 200px;
+    border: 10px double ;
+    display: flex;
+    justify-content: center;
+}
+.cls{
+    width: 200px;
+    height: 200px;
+    border: 10px double ;
+    display: flex;
+    justify-content: center;
+}
+.cls:hover{
+    width: 200px;
+    height: 200px;
+}
+.BOSS{
+    background-color: white;
+    margin: 50px;
+    border: 10px double red;
+    width: auto;
+    height: 1600px;
+}
+.Yaponka{
+    cursor: pointer;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.Bmw{
+    cursor: pointer;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.Cls{
+    display: flex;
+    cursor: pointer;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img{
+    width: 200px;
+    height: 500px;
+    border: 2px solid;
+}
+.pic{
+    height: 620px;
+    width: 220px;
+    margin: 1px 1px 50px ;
+}
+.text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
